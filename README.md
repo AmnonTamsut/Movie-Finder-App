@@ -7,7 +7,7 @@ A React application that allows users to browse movies, search for their favorit
 Watch the full tutorial and demo of this application:
 
 <!-- Replace with actual video link -->
-[![Movie Favorites App Demo]()]([https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4))
+[![Movie Favorites App Demo]()]([[https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4)](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4))
 
 *Video will be added soon - check back for the complete walkthrough!*
 
@@ -62,12 +62,12 @@ src/
 │   ├── MovieCard/
 │   └── SearchBar/
 ├── context/
-│   └── FavoritesContext.js
+│   └── FavoritesContext.jsx
 ├── pages/
 │   ├── Home/
 │   └── Favorites/
-├── App.js
-└── index.js
+├── App.jsx
+└── index.jsx
 ```
 
 ## Getting Started
@@ -95,7 +95,7 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+4. Open [http://localhost:5173](http://localhost:5173) to view the app in your browser (port may vary).
 
 ## Usage
 
@@ -191,5 +191,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Community tutorials and resources that inspired this project
 
 ---
-
-**Note**: This project was created as an educational resource to demonstrate React concepts. All code is available in this repository for learning purposes.
