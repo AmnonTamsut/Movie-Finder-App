@@ -7,7 +7,7 @@ A React application that allows users to browse movies, search for their favorit
 Watch the full tutorial and demo of this application:
 
 <!-- Replace with actual video link -->
-[![Movie Favorites App Demo]()]([[https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4)](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4))
+[![Movie Favorites App Demo](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/Screen%20Shot%202025-05-22%20at%202.37.01%20PM.png)]([[https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4)](https://github.com/AmnonTamsut/Movie-Finder-App/blob/main/MovieApp%20Demo.mp4))
 
 *Video will be added soon - check back for the complete walkthrough!*
 
